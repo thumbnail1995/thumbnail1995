@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico Nespoli
 - 🌱 I’m currently learning NextJs
-- 📫 How to reach me [Mail](federiconespoli95@gmail.com)
+- 📫 How to reach me [Mail](mailto:federiconespoli95@gmail.com)
 
 
 <!---
